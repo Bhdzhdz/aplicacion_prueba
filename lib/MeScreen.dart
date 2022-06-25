@@ -12,7 +12,8 @@ class MeScreen extends StatelessWidget {
         body: Row(
           children: [
             Container(
-              
+              width: 250,
+              height: 250,
             )
           ],
         ),
