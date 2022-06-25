@@ -9,6 +9,13 @@ class MeScreen extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         backgroundColor: Colors.white,
+        body: Row(
+          children: [
+            Container(
+              
+            )
+          ],
+        ),
       ),
     );
   }
